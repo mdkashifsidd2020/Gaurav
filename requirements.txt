@@ -1,8 +1,9 @@
-streamlit==1.46.1
-tensorflow==2.11.1
+streamlit==1.21.0
+tensorflow==2.10.0
 keras
 pandas
 numpy
 pillow
 altair
 googletrans==4.0.2
+protobuf==3.19.6
