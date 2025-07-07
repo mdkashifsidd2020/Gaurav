@@ -1,0 +1,7 @@
+Arborio
+Basmati
+Brown_rice
+Ipsala
+Jasmine
+Karacadag
+Not_rice
